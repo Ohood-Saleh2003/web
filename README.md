@@ -9,10 +9,11 @@
       font-family: Arial, sans-serif;
       text-align: center;
       padding: 20px;
-      color: black;
+      color:pink;
+      background-color:#e0ffff ;
     }
     #robot__control {
-      width: 80%;
+      width: 60%;
       height: 200px;
       font-size: 16px;
       padding: 10px;
@@ -25,7 +26,7 @@
     button {
       font-size: 16px;
       padding: 10px 20px;
-      background-color: green;
+      background-color: silver;
       border-radius: 5px;
       cursor: pointer;
     }
@@ -70,9 +71,11 @@
 </body>
 </html>
 ```
-![لقطة شاشة 2024-07-14 220008](https://github.com/user-attachments/assets/560715b7-8082-4279-82e2-b818c67c0f03)
+![لقطة شاشة 2024-07-15 124321](https://github.com/user-attachments/assets/0fefc758-0ee2-4f5b-b54d-50652aa79d2a)
+#### save :
 
-![لقطة شاشة 2024-07-14 215949](https://github.com/user-attachments/assets/d4b773d5-8812-4a6e-b599-83f807f5cfc3)
+![لقطة شاشة 2024-07-15 124348](https://github.com/user-attachments/assets/1dc624ad-3c66-4ac0-999e-290b56421626)
+
 
 #### Save the output to database :
 ```
@@ -107,5 +110,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   
 ?>
 ```
-![لقطة شاشة 2024-07-14 220033](https://github.com/user-attachments/assets/81d0d405-3016-4e78-a14d-2bf55ac0c670)
+![لقطة شاشة 2024-07-15 124437](https://github.com/user-attachments/assets/fb58cd36-17ed-4405-8637-28fec9bddceb)
 
